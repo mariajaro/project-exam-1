@@ -28,7 +28,7 @@ I choose to make a blog about plants, where readers can fint tips and tricks - P
 1. Clone the repo:
 
 ```bash
-git@github.com:mariajaro/Community-Science-Museum.git
+git@github.com:mariajaro/project-exam-1.git
 ```
 
 2. Original repo is on Noroff GitHub:
