@@ -1,18 +1,25 @@
-# Community-Science-Museum | Semester Project 1
+# Plantos | Project Exam 1
 
-![logo](images/)
+![logo](images/classic-wooden-chair-by-fiddle-leaf-fig-plant.jpg)
 
 
 ## Description
 
-In this projest we as students were supposed to bases on the first-semester curriculum, reflect creative and technical knowledge and skills. This includes design principles, project management, communication technology, and development with HTML/CSS.
+In this exam we as students were supposed to create a blog site. We could choose the the design and topics covered on the blog, but it should have at least the following pages:
 
-We were supposed to make a website for an interactive science museum called the Community Science Museum. Its core target audience is primary and middle school children (ages 7-15) and families with young children. The museum wanted an informative, appealing website to attract middle school pupils and their parents. The site should appeal to youngsters without pandering; it should take for granted that the audience is curious and intelligent. The website should be informative and engaging, encouraging viewers to visit the museum. The website should be responsive and easy to use on various devices.
+- Home page
+- About page
+- List of blog posts
+- Blog post specific pages
+- Contact page
+
+I choose to make a blog about plants, where readers can fint tips and tricks - PLANTOS 🌱
 
 ## Built With
 
 - HTML
 - CSS
+- JS
 
 ## Getting Started
 
@@ -23,6 +30,13 @@ We were supposed to make a website for an interactive science museum called the 
 ```bash
 git@github.com:mariajaro/Community-Science-Museum.git
 ```
+
+2. Original repo is on Noroff GitHub:
+
+```bash
+git@github.com:Noroff-FEU-Assignments/project-exam-1-mariajaro.git
+```
+
 
 ### Running
 
