@@ -37,7 +37,6 @@ git@github.com:mariajaro/project-exam-1.git
 git@github.com:Noroff-FEU-Assignments/project-exam-1-mariajaro.git
 ```
 
-
 ### Running
 
 This project contains only static files, so it will pretty much run on all devices. Just go into the root folder where you cloned this repo, and double click on index.html to run the file in your browser.
